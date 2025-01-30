@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "Martin",
+		"surname": "Gibson",
+		"birth_timestamp": 946733820,
+		"phone_number": "078 8080 8788",
+		"grades": {
+			"maths": 8,
+			"physics": 8,
+			"astronomy": 7
+		}
+	},
+	{
+		"id": 2,
+		"name": "Zoe",
+		"surname": "Roberts",
+		"birth_timestamp": 895036365,
+		"phone_number": "070 3542 4308",
+		"grades": {
+			"maths": 7,
+			"geography": 7,
+			"english": 9
+		}
+	}
+]
