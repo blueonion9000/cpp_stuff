@@ -13,7 +13,7 @@ w. Write database
 e. Exit
 ```
 
-"Noteable" code features:
+"Notable" code features:
 1. Header files
 2. Parsing and saving JSON using 3rd party library ([nlohmann/json](https://github.com/nlohmann/json))
 3. Handling of command line arguments
